@@ -1,7 +1,7 @@
 
 # Rapport
 
-**Skriv din rapport här!**
+**Jag bytte namn på applikationen till "morsning korsning" och sedan aktiverade internettillgång för applikationen. Sedan skapades en Webview i applikationen som tillåter den att visa en hemsida utan en extern webbläsare. Sedan skapades en webviewclient jag sedan aktiverade tillgång till javascript execution så att den ska kunna hantera handlingarna i webviewen. Efter att ha gjort detta så tilldelades både den externa och interna web sidorna varsinn hemsida att visa.     **
 
 _Du kan ta bort all text som finns sedan tidigare_.
 
